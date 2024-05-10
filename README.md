@@ -61,6 +61,10 @@
   <a href="https://github.com/Nephedov/Performance-test/blob/main/ScreenshotsMetrics%20Grafana%2BNodeExporter%2BPrometheus/FullSizeScreenshotMetrics.png">Скриншот</a>.
 
 
+---
+---
+
+
 ## Описание Задания 1
 1. Развернуть систему мониторинга на базе `telegraf` + `influxDB`.
 2. Для отображения использовать дашборды `grafana`.
